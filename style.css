@@ -1,0 +1,201 @@
+.asabeneh{
+    justify-content: start;
+    display: flex;
+    font-size: 53px;
+    letter-spacing: 15px;
+    width: 100%;
+    margin-left: 100px;
+    font-family: sans-serif;
+    
+}
+#move{
+    background-color: #e2dbd2;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    height: 100px;
+    margin-left: 90px; 
+    margin-right: 390px;
+}
+#paraghraph{
+    font-family: cursive;
+    margin-left: 100px;
+    margin-right: 380px;
+}
+#hovers{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10px;
+    margin-right: 300px;
+    font-size: 30px;
+    font-family: cursive;
+}
+#p1{
+    width: 300px;
+    border: 1px solid #ffe6e6;
+    height: 160px;
+    text-align: center;
+
+}
+#p2{
+    border: 1px solid #ffe6e6;
+    width: 300px;
+    text-align: center;
+
+}
+#p3{
+    border: 1px solid #ffe6e6;
+    width: 400px;
+    text-align: center;
+}
+
+#p1:hover{
+    background-color:#e2dbd2 ;
+    cursor: pointer;
+}
+#p2:hover{
+    background-color:#e2dbd2 ;
+    cursor: pointer;
+
+}#p3:hover{
+    background-color:#e2dbd2 ;
+    cursor: pointer;
+
+}
+#motivational{
+    color: orange;
+    font-size: 25px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+#motivator{
+    color: orange;
+    font-size: 25px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+
+}
+#programmer{
+    font-size: 25px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+
+}
+#content{
+    color: limegreen;
+    font-size: 25px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    
+}
+#instructor{
+    color: slategray;
+    font-size: 25px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+#educator{
+    color: mediumseagreen;
+    font-size: 25px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-left: 10px; 
+}
+#teach{
+    margin-left: 45px;
+    font-family: cursive;
+    font-size: 20px;
+
+}
+#pro{
+    color: rgb(26, 24, 24);
+    font-size: 17px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+#motiv1{
+    color: rgb(26, 24, 24);
+    font-size: 17px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+#motiv2{
+    color: rgb(26, 24, 24);
+    font-size: 17px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+#cont{
+    color: rgb(26, 24, 24);
+    font-size: 17px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+#inst{
+    color: rgb(26, 24, 24);
+    font-size: 17px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+#edu{
+    color: rgb(26, 24, 24);
+    font-size: 17px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+#react{
+    font-size: 40px;
+    display: none;
+}
+#js{
+    font-size: 40px;
+    display: none;
+
+}
+#Node{
+    font-size: 40px;
+display: none;
+}
+#python{
+    font-size: 40px;
+display: none;
+}
+#pandas{
+    font-size: 40px;
+display: none;
+}
+#numby{
+    font-size: 40px;
+    display: none;  
+}
+#redux{
+    font-size: 40px;
+    display: none;
+
+}
+#mongo{
+    font-size: 40px;
+display: none;
+}
+#html{
+    font-size: 40px;
+    display: none;
+}
+
